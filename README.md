@@ -12,5 +12,5 @@ yarn dev
 ```
 
 ## Credits
-Thanks to [Sonny Sangha](https://www.youtube.com/watch?v=BbilqOBOfg8&t=7477s) and his awesome examples!
+Thanks to [Sonny Sangha](https://www.youtube.com/watch?v=BbilqOBOfg8) and his awesome examples!
 
